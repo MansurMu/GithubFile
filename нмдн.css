@@ -1,0 +1,16 @@
+body{
+    margin:0;
+}
+.korobka{
+    color: blue;
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    border-radius:100% ;
+}
+.dflex{
+    display: flex;
+    background-color:aqua;
+}
